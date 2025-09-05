@@ -43,6 +43,11 @@
 
 ---
 
+## 📌 Featured Projects
+- 🏫 [Student Management System](https://github.com/morino237/student-management) – A Spring Boot + MySQL project  
+- 📚 [Library App](https://github.com/morino237/library-app) – Java + MySQL  
+- ✅ [TodoList with Swing](https://github.com/morino237/todolist-swing) – GUI + SQLite  
+
 ## 🌟 Goals
 - Build  complete web application fullstack  
 - Contribute to open-source projects  
