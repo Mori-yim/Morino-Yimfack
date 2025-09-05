@@ -3,6 +3,12 @@
 </p>
 
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/morino237?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/morino237?affiliations=OWNER&style=social)
+
+
 - # 👋 Hi, I'm Morino
 
 💻 Beginner Developer | Learning Java, Spring Boot, and Web Development  
@@ -15,6 +21,8 @@
 - **Languages**: Java, SQL, HTML, CSS, JavaScript, Php  
 - **Frameworks**: Spring Boot (learning), Angular (learning)  
 - **Tools**: Git, GitHub, IntelliJ IDEA, MySQL Workbench
+
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
